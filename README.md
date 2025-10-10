@@ -26,8 +26,7 @@ I thrive on creating impactful software solutions and exploring how **cloud, AI,
 
 ---
 
-### 👯 Looking to Collaborate On  
-- Open-source projects related to **.NET**, **Cloud Computing**, or **DevOps Automation**  
+### 👯 Looking to Collaborate On Open-source projects related to **.NET**, **Cloud Computing**, or **DevOps Automation**  
 
 ---
 
