@@ -40,7 +40,7 @@ I thrive on creating impactful software solutions and exploring how **cloud, AI,
 
 ### 📫 How to Reach Me  
 📧 **[vishal.kalra345@gmail.com](mailto:vishal.kalra345@gmail.com)**  
-💼 [LinkedIn](https://linkedin.com/in/vishalkalra)  
+💼 [LinkedIn](https://linkedin.com/in/vishal-kalra)  
 
 ---
 
