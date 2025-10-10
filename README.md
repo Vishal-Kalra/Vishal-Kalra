@@ -45,5 +45,5 @@ I thrive on creating impactful software solutions and exploring how **cloud, AI,
 ---
 
 <p align="center">
-  💡 *“Code is like humor — when you have to explain it, it’s bad.”*
+  💡 *“I build systems that solve problems before they become visible”*
 </p>
