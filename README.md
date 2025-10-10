@@ -45,12 +45,5 @@ I thrive on creating impactful software solutions and exploring how **cloud, AI,
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkalra&show_icons=true&theme=tokyonight&hide_border=true" alt="Vishal's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkalra&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">
   💡 *“Code is like humor — when you have to explain it, it’s bad.”*
 </p>
