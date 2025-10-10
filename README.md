@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#0078D7">Vishal Kalra</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#0078D7">Vishal </span></h1>
 <h3 align="center">🚀 Software Engineer | Cloud & DevOps Enthusiast | .NET Specialist</h3>
 
 ---
