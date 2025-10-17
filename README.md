@@ -14,7 +14,7 @@ I thrive on creating impactful software solutions and exploring how **cloud, AI,
 
 ### 🔭 Current Projects  
 - 🌐 Building a **personal portfolio website** to showcase my projects and achievements   
-- ⚡ Developing a **Flutter-based EV charging management app**  
+- ⚡ Developing a **Flutter-based EV charging management app**  (**Private Repository**)
 - 🤖 Exploring **AI-driven cloud applications** and **.NET microservices**
   
 ---
